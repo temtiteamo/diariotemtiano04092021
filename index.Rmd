@@ -1,0 +1,45 @@
+--- 
+title: "Diario Temtiano edición 04.09.2021"
+date: "2021-09-04"
+lang: es-es
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+github-repo: temtiteamo/diariotemtiano04092021
+description: "Mucho texto acerca de un tramo de la historia temtiana."
+header-includes:
+  - \usepackage{fancyhdr}
+  - \usepackage{lipsum}
+  - \pagestyle{plain}
+  - \fancyhead[CO,CE]{\thepage}
+  - \fancyfoot[LE,RO]{\thepage}
+---
+
+
+# Notas de la edición {-}
+
+**Diario Temtiano** edición 04.09.2021
+
+## Novedades en esta edición {-}
+
+- Agregados dos nuevos subcapítulos al Quinto capítulo. Subcapítulos XIII y XIV, los cuales tratan sobre: los instantes finales de la cuenta regresiva, y la llegada de la fecha y hora señalada con todas sus repercusiones.
+
+
+- Modificados varios títulos de la obra, también algunos detalles del contenido. Especialmente en el Prefacio, la Introducción, y en algunos subcapítulos del Primer y Segundo capitulo.
+
+
+- Distinguidos algunos términos clave: Primer Éxodo (referente al periodo abarcado en el primer capítulo entero), Segundo Éxodo (quinto capítulo entero), Orbita (la supuesta orbita a la que refiere Temti en la sentencia *--Reingreso en orbita--*, no la palabra órbita en sí), Sujeto Experimental (para los dos reconocidos psíquicos) e Imperio (adjetivo de todos los antros rozzados dominantes). Al ser términos importantes en la historia temtiana, no deberían ser confundidos con el resto de palabras comunes. Son similares a algunos ya conocidos: Purga, Tribu (Hixxel), Notificaciones Cuánticas, etc.. 
+
+
+- Reemplazados los guiones (--, ---) por barras (//, ///). Estos hacen las veces de comillas ya que en Temti dicho carácter aparece poco y nada. Respectivamente, se recurre a ellos cada vez que hay que usar palabras polémicas o que sea necesario referirse a ellas con precaución, y cuando se cita a una frase textual extraída del contexto histórico.
+
+
+- Corregidas varias faltas de ortografía a lo largo de toda la obra.
+
+
+## Cambios previstos para la próxima edición {-}
+- Seguir poniéndose al día.
+- Continuar corrigiendo errores.
+
+## A considerar en futuras ediciones {-}
+- Analizar qué otros asuntos secundarios a nivel social puedan merecer ser mencionados y agregarlos donde sea necesario.
